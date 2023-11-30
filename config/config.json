@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "nltphuc_user",
+    "password": "ePQAZ0I95LSotvqtzwDiwlMD33GqGSXS",
+    "database": "nltphuc",
+    "host": "dpg-clk03c58td7s73d9gmpg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "nltphuc_user",
+    "password": "ePQAZ0I95LSotvqtzwDiwlMD33GqGSXS",
+    "database": "nltphuc",
+    "host": "dpg-clk03c58td7s73d9gmpg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "nltphuc_user",
+    "password": "ePQAZ0I95LSotvqtzwDiwlMD33GqGSXS",
+    "database": "nltphuc",
+    "host": "dpg-clk03c58td7s73d9gmpg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
